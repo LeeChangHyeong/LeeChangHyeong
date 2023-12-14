@@ -6,7 +6,7 @@
 #### 👨🏻‍💻 진행중인 프로젝트
 #### 📱 Released Project
 - 내가사마 (AppStore)
-  - SwiftUI, MVC, AVFoundation, SpriteKit
+  - SwiftUI, AVFoundation, SpriteKit
 - Real Punch (AppStore)
   - SwiftUI, CoreMotion, CoreHaptics, GameKit, Lottie, GoogleMobileAds
 - 똑똑 (AppStore)
