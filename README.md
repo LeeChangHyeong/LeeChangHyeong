@@ -10,7 +10,7 @@
 - Real Punch (AppStore)
   - SwiftUI, CoreMotion, CoreHaptics, GameKit, Lottie, GoogleMobileAds
 - 똑똑 (AppStore)
-  - UIKit, MVC, CoreData
+  - UIKit, MVC, CoreData, AVFoundation
 - 금연파이터 (AppStore)
   - SwiftUI, AppState, GoogleMobileAds
   
