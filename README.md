@@ -5,7 +5,7 @@
 - Dongguk University WISE Campus (Mar, 2016 - Feb, 2022)
 
 #### 👨🏻‍💻 Ongoing Project
-- 공간 ([GitHub](https://github.com/LeeChangHyeong/Gong_Gan))
+- 모밍(Moming) ([GitHub](https://github.com/LeeChangHyeong/Gong_Gan))
   - _UIKit_, _RxSwift_, _MVVM_, _FireBase_, _SpriteKit_, _AVFoundation_, _SnapKit_
   
 #### 📱 Released Projects
