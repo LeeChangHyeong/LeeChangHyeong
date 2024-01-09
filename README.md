@@ -4,11 +4,9 @@
 -  Apple Developer Academy @POSTECH 1st Generation Learner (Mar, 2022 - Dec, 2022)
 - Dongguk University WISE Campus (Mar, 2016 - Feb, 2022)
 
-#### 👨🏻‍💻 Ongoing Project
+#### 📱 Released Projects
 - 모밍(Moming) ([GitHub](https://github.com/LeeChangHyeong/Gong_Gan))
   - _UIKit_, _RxSwift_, _MVVM_, _FireBase_, _SpriteKit_, _AVFoundation_, _SnapKit_
-  
-#### 📱 Released Projects
 - 내가사마 ([AppStore](https://apps.apple.com/kr/app/내가사마/id6443425054))
   - _SwiftUI_, _AVFoundation_, _SpriteKit_
 - Real Punch ([AppStore](https://apps.apple.com/kr/app/real-punch/id1636187292))
