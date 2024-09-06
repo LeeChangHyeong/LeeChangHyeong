@@ -14,7 +14,7 @@
   - _SwiftUI_, _AVFoundation_, _SpriteKit_
 - Real Punch ([AppStore](https://apps.apple.com/kr/app/real-punch/id1636187292))
   - _SwiftUI_, _CoreMotion_, _CoreHaptics_, _GameKit_, _Lottie_, _GoogleMobileAds_
-- 똑똑 - KonckKonck ([AppStore](https://apps.apple.com/id/app/똑똑-knockknock/id1637051056))
+- 똑똑 - KnockKnock ([AppStore](https://apps.apple.com/id/app/똑똑-knockknock/id1637051056))
   - _UIKit_, _MVC_, _CoreData_, _AVFoundation_
 - 금연파이터 ([AppStore](https://apps.apple.com/tr/app/금연파이터/id1625868653))
   - _SwiftUI_, _AppState_, _GoogleMobileAds_
