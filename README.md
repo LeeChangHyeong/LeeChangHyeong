@@ -6,6 +6,8 @@
 - Dongguk University WISE Campus (Mar, 2016 - Feb, 2022)
 
 #### 📱 Released Projects
+- Detour ([GitHub](https://github.com/BE-Friend-Develop-Team/detour))
+  - _JAVA_, _SPRING BOOT_, _SPRING SECURITY_, _OAUTH 2.0_, _REDIS_, _DOCKER_, _JENKINS_, _AWS_
 - 모밍(Moming) ([GitHub](https://github.com/LeeChangHyeong/Gong_Gan))
   - _UIKit_, _RxSwift_, _MVVM_, _FireBase_, _SpriteKit_, _AVFoundation_, _SnapKit_, _AlamoFire_
 - 내가사마 ([AppStore](https://apps.apple.com/kr/app/내가사마/id6443425054))
