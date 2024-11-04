@@ -26,7 +26,7 @@
 - Organizer, [한글톤](https://www.linkedin.com/posts/apple-developer-academy-postech_chaam-ukuqygqlc-ukstectse-activity-7005453447198121984-eE9V/?utm_source=share&utm_medium=member_desktop) (Oct 8 ~ 9, 2022)
   
 #### 🗣️ Contact
-<a href="https://www.instagram.com/changbro_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/shlee509@dongguk.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<a href="https://www.instagram.com/changbro_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/chxngbro@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeChangHyeong&show_icons=true&theme=radical)
 
