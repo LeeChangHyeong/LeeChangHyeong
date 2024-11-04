@@ -1,7 +1,10 @@
 ### Hi, I'm BackEnd/iOS Developer LeeChangHyeong 👋
 
+#### 💻 Experiences
+BackEnd Engineer @ CrePASS Inc. (Nov, 2024 - now)
+
 #### 🎓 Education
-- Sparta Coding Club Java/Spring 5th (Mar, 2024 - )
+- Sparta Coding Club Java/Spring 5th (Mar, 2024 - Sep, 2024)
 -  Apple Developer Academy @POSTECH 1st Generation Learner (Mar, 2022 - Dec, 2022)
 - Dongguk University WISE Campus (Mar, 2016 - Feb, 2022)
 
