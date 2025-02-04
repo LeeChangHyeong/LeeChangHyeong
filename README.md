@@ -1,7 +1,8 @@
 ### Hi, I'm BackEnd/iOS Developer LeeChangHyeong 👋
 
 #### 💻 Experiences
-- BackEnd Engineer @ CrePASS Inc. (Nov, 2024 - now)
+- BackEnd Engineer @ Lemon Healthcare Inc. (Jan, 2025 - Now)
+- BackEnd Engineer @ CrePASS Inc. (Nov, 2024 - Jan, 2025)
 
 #### 🎓 Education
 - Sparta Coding Club Java/Spring 5th (Mar, 2024 - Sep, 2024)
