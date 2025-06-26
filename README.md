@@ -10,17 +10,19 @@
 - Dongguk University WISE Campus (Mar, 2016 - Feb, 2022)
 
 #### 📱 Released Projects
+- Morak ([GitHub](https://github.com/LeeChangHyeong/morak-backend)) ~ ing
+  - _JAVA_, _SPRING BOOT_, _SPRING SECURITY_, _REDIS_, _DOCKER_
 - Detour ([GitHub](https://github.com/BE-Friend-Develop-Team/detour))
   - _JAVA_, _SPRING BOOT_, _SPRING SECURITY_, _OAUTH 2.0_, _REDIS_, _DOCKER_, _JENKINS_, _AWS_
 - 모밍(Moming) ([GitHub](https://github.com/LeeChangHyeong/Gong_Gan))
   - _UIKit_, _RxSwift_, _MVVM_, _FireBase_, _SpriteKit_, _AVFoundation_, _SnapKit_, _AlamoFire_
-- 내가사마 ([AppStore](https://apps.apple.com/kr/app/내가사마/id6443425054))
+- 내가사마 ([GitHub](https://github.com/LeeChangHyeong/HorseRacing))
   - _SwiftUI_, _AVFoundation_, _SpriteKit_
 - Real Punch ([AppStore](https://apps.apple.com/kr/app/real-punch/id1636187292))
   - _SwiftUI_, _CoreMotion_, _CoreHaptics_, _GameKit_, _Lottie_, _GoogleMobileAds_
-- 똑똑 - KnockKnock ([AppStore](https://apps.apple.com/id/app/똑똑-knockknock/id1637051056))
+- 똑똑 - KnockKnock ([GitHub](https://github.com/LeeChangHyeong/MC3-Team5-KnockKnock))
   - _UIKit_, _MVC_, _CoreData_, _AVFoundation_
-- 금연파이터 ([AppStore](https://apps.apple.com/tr/app/금연파이터/id1625868653))
+- 금연파이터 ([GitHub](https://github.com/LeeChangHyeong/StopSmokingFighter))
   - _SwiftUI_, _AppState_, _GoogleMobileAds_
 
 #### 🏃🏻 Activity
