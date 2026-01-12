@@ -7,7 +7,7 @@
 #### 🎓 Education
 - Sparta Coding Club Java/Spring 5th (Mar, 2024 - Sep, 2024)
 -  Apple Developer Academy @POSTECH 1st Generation Learner (Mar, 2022 - Dec, 2022)
-- Dongguk University WISE Campus (Mar, 2016 - Feb, 2022)
+- Dongguk University (Mar, 2016 - Feb, 2022)
 
 #### 📱 Released Projects
 - Morak ([GitHub](https://github.com/LeeChangHyeong/morak-backend)) ~ ing
