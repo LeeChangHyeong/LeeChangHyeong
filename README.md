@@ -10,7 +10,7 @@
 - Dongguk University (Mar, 2016 - Feb, 2022)
 
 #### 📱 Released Projects
-- Morak ([GitHub](https://github.com/LeeChangHyeong/morak-backend)) ~ ing
+- Morak ([GitHub](https://github.com/LeeChangHyeong/morak-backend))([AppStore](https://apps.apple.com/kr/app/%EB%AA%A8%EB%9D%BD-morak/id6757371395)) 
   - _JAVA_, _SPRING BOOT_, _SPRING SECURITY_, _REDIS_, _DOCKER_
 - Detour ([GitHub](https://github.com/BE-Friend-Develop-Team/detour))
   - _JAVA_, _SPRING BOOT_, _SPRING SECURITY_, _OAUTH 2.0_, _REDIS_, _DOCKER_, _JENKINS_, _AWS_
