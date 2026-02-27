@@ -12,17 +12,13 @@
 #### 📱 Released Projects
 - Morak ([GitHub](https://github.com/LeeChangHyeong/morak-backend))([AppStore](https://apps.apple.com/kr/app/%EB%AA%A8%EB%9D%BD-morak/id6757371395)) 
   - _JAVA_, _SPRING BOOT_, _SPRING SECURITY_, _REDIS_, _DOCKER_
-- Detour ([GitHub](https://github.com/BE-Friend-Develop-Team/detour))
-  - _JAVA_, _SPRING BOOT_, _SPRING SECURITY_, _OAUTH 2.0_, _REDIS_, _DOCKER_, _JENKINS_, _AWS_
-- 모밍(Moming) ([GitHub](https://github.com/LeeChangHyeong/Gong_Gan))
+- 모밍(Moming) ([GitHub](https://github.com/LeeChangHyeong/Gong_Gan))([AppStore](https://apps.apple.com/kr/app/모밍/id6475660427))
   - _UIKit_, _RxSwift_, _MVVM_, _FireBase_, _SpriteKit_, _AVFoundation_, _SnapKit_, _AlamoFire_
-- 내가사마 ([GitHub](https://github.com/LeeChangHyeong/HorseRacing))
+- 내가사마 ([GitHub](https://github.com/LeeChangHyeong/HorseRacing)([AppStore](https://apps.apple.com/kr/app/내가사마/id6443425054))
   - _SwiftUI_, _AVFoundation_, _SpriteKit_
 - Real Punch ([AppStore](https://apps.apple.com/kr/app/real-punch/id1636187292))
   - _SwiftUI_, _CoreMotion_, _CoreHaptics_, _GameKit_, _Lottie_, _GoogleMobileAds_
-- 똑똑 - KnockKnock ([GitHub](https://github.com/LeeChangHyeong/MC3-Team5-KnockKnock))
-  - _UIKit_, _MVC_, _CoreData_, _AVFoundation_
-- 금연파이터 ([GitHub](https://github.com/LeeChangHyeong/StopSmokingFighter))
+- 금연파이터 ([GitHub](https://github.com/LeeChangHyeong/StopSmokingFighter))([AppStore](https://apps.apple.com/kr/app/금연파이터/id1625868653))
   - _SwiftUI_, _AppState_, _GoogleMobileAds_
 
 #### 🏃🏻 Activity
